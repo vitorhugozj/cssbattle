@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background-color: #62374e;
+}
+.quadrado1{
+    width: 100px;
+    height: 100px;
+    top: 150px;
+    left: 500px;
+    position: absolute;
+    background-color: #fdc57b;
+}
+.quadrado2{
+    width: 100px;
+    height: 100px;
+    top: 150px;
+    left: 1300px;
+    position: absolute;
+    background-color: #fdc57b;
+}
+.quadrado3{
+    width: 100px;
+    height: 100px;
+    top: 700px;
+    left: 500px;
+    position: absolute;
+    background-color: #fdc57b;
+}
+.quadrado4{
+    width: 100px;
+    height: 100px;
+    top: 700px;
+    left: 1300px;
+    position: absolute;
+    background-color: #fdc57b;
+}
